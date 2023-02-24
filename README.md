@@ -1,1 +1,2 @@
-# eratosthenes
+# Erastosthenes Toy Project
+------------
